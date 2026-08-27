@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "data": "2026-03-15",
+        "hora": "08:30:00",
+        "paciente": "Lucas Andrade Silva",
+        "peso": 78.5,
+        "altura": 1.75
+    },
+    {
+        "id": 2,
+        "data": "2026-07-22",
+        "hora": "14:30:00",
+        "paciente": "Mariana Costa Oliveira",
+        "peso": 62,
+        "altura": 1.68
+    },
+    {
+        "id": 3,
+        "data": "2026-11-10",
+        "hora": "11:00:00",
+        "paciente": "Gilberto Cardoso Spinelli",
+        "peso": 14.2,
+        "altura": 0.95
+    }
+]
