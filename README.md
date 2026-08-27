@@ -10,7 +10,7 @@ Um site que gerencia consultas e calcula o Índice de Massa Corporal (IMC).
 git clone https://github.com/gabezinnnn/aula03_back_ex1.git
 ```
 - 2. Abra a pasta com VS Code;
-  3. Abra o terminal do VS Code e instale as dependencias:
+- 3. Abra o terminal do VS Code e instale as dependencias:
 ```cmd
 npm init
 npm install express
